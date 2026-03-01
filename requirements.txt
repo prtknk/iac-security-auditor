@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+python-hcl2
+python-multipart
